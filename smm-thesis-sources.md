@@ -82,6 +82,21 @@
 
 > **Правило «цит. за».** Якщо визначення автора X ви знайшли не в його книзі, а в статті Романчик [41], посилання оформлюється як «X [цит. за 41, с. N]» або в таблиці: «X (цит. за [41, с. N])». Видавати таке визначення за прочитане в оригіналі не можна. Краще, якщо можете, знайти оригінал.
 
+## Додатково знайдені статті (пошук «схожих робіт»)
+
+44. Коваль З. О., Ткаченко А. Д. SMM-стратегія, як дієвий інструмент прискорення бізнесу. *Менеджмент та підприємництво в Україні: етапи становлення і проблеми розвитку*. 2024. Т. 6, № 2. С. 57–65. URL: https://ena.lpnu.ua/handle/ntb/123769
+    - **До 1.2:** переваги та недоліки SMM-стратегії.
+45. Зіньцьо Ю., Федорук М. Основні види та формати контенту для SMM. *Економіка та суспільство*. 2025. № 71. DOI: https://doi.org/10.32782/2524-0072/2025-71-86
+    - **До 1.2 і 3.2:** контент-стратегія, формати.
+46. Keegan B. J., Rowley J. Evaluation and decision making in social media marketing. *Management Decision*. 2017. Vol. 55, No. 1. P. 15–31. DOI: https://doi.org/10.1108/MD-10-2015-0450
+    - **До 1.3:** 6-етапна модель оцінювання SMM (цілі оцінювання → KPI → метрики → збір і аналіз даних → звіт → управлінське рішення).
+    - 🟢 Відкритий PDF: https://e-space.mmu.ac.uk/617347/
+47. Bartoloni S., Ancillai C. Twenty years of social media marketing: A systematic review, integrative framework, and future research agenda. *International Journal of Management Reviews*. 2024. Vol. 26, No. 3. P. 435–457. DOI: https://doi.org/10.1111/ijmr.12360
+    - **До 1.1–1.2:** огляд 20 років досліджень SMM.
+    - 🟢 Відкритий доступ.
+48. Varela-Neira C., Dwivedi Y. K., Camoiras-Rodriguez Z. Social media marketing system: conceptualization, scale development and validation. *Internet Research*. 2023. Vol. 33, No. 4. P. 1302–1330. DOI: https://doi.org/10.1108/INTR-06-2021-0393
+    - **До 1.2:** SMM як *система управління* з 4 вимірами: формалізація, управління персоналом, співтворення, маркетингове планування. Дуже близько до вашого підрозділу 1.2.
+
 ## Статистика (для обґрунтування актуальності)
 
 39. Digital 2026: Ukraine. *DataReportal*. 2025. URL: https://datareportal.com/reports/digital-2026-ukraine (дата звернення: дд.мм.рррр).
