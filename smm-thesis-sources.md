@@ -97,6 +97,23 @@
 48. Varela-Neira C., Dwivedi Y. K., Camoiras-Rodriguez Z. Social media marketing system: conceptualization, scale development and validation. *Internet Research*. 2023. Vol. 33, No. 4. P. 1302–1330. DOI: https://doi.org/10.1108/INTR-06-2021-0393
     - **До 1.2:** SMM як *система управління* з 4 вимірами: формалізація, управління персоналом, співтворення, маркетингове планування. Дуже близько до вашого підрозділу 1.2.
 
+## Статті з журналів, що є в JSTOR (Journal of Marketing тощо)
+
+49. Lamberton C., Stephen A. T. A thematic exploration of digital, social media, and mobile marketing: Research evolution from 2000 to 2015 and an agenda for future inquiry. *Journal of Marketing*. 2016. Vol. 80, No. 6. P. 146–172.
+    - **До 1.1:** 3 ролі цифрових і соціальних медіа в маркетингу: засіб самовираження споживачів, інструмент підтримки рішень, джерело ринкової інформації.
+    - Найкраща стаття Journal of Marketing 2016 р. **Є в JSTOR.**
+50. Li F., Larimo J., Leonidou L. C. Social media marketing strategy: definition, conceptualization, taxonomy, validation, and future agenda. *Journal of the Academy of Marketing Science*. 2021. Vol. 49, No. 1. P. 51–70. DOI: https://doi.org/10.1007/s11747-020-00733-3
+    - **До 1.1–1.2:** визначення SMM-стратегії; 4 типи стратегій за рівнем зрілості (social commerce, social content, social monitoring, social CRM).
+    - 🟢 Відкрита версія: https://eprints.whiterose.ac.uk/161978/
+51. Trusov M., Bucklin R. E., Pauwels K. Effects of word-of-mouth versus traditional marketing: Findings from an internet social networking site. *Journal of Marketing*. 2009. Vol. 73, No. 5. P. 90–102. DOI: https://doi.org/10.1509/jmkg.73.5.90
+    - **До 1.1 (блок В):** емпірично показано, що ефект WOM у соцмережі значно довший і сильніший за традиційний маркетинг. Чудовий аргумент для порівняльної Табл. 1.3.
+    - **Є в JSTOR.**
+52. Schau H. J., Muñiz A. M., Arnould E. J. How brand community practices create value. *Journal of Marketing*. 2009. Vol. 73, No. 5. P. 30–51.
+    - **До 1.1 (блок Г) і 3.2:** бренд-спільноти та 12 практик створення цінності споживачами (UGC, лояльність).
+    - **Є в JSTOR.**
+
+> **Доступ до JSTOR:** зареєструйте безкоштовний особистий акаунт на jstor.org (режим «read online» дає обмежену кількість статей на місяць). Також спитайте в бібліотеці КПІ, чи є інституційний доступ.
+
 ## Статистика (для обґрунтування актуальності)
 
 39. Digital 2026: Ukraine. *DataReportal*. 2025. URL: https://datareportal.com/reports/digital-2026-ukraine (дата звернення: дд.мм.рррр).
